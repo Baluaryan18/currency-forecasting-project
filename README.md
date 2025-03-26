@@ -40,7 +40,7 @@ This project provides a comprehensive analysis of historical currency exchange r
 
 ---
 
-## 🧠 Deliverables
+## Deliverables
 
 - `data/` → Cleaned datasets & ARIMA forecasts
 - `visualizations/` → HTML interactive dashboard
