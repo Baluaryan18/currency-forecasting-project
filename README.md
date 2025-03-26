@@ -49,15 +49,15 @@ This project provides a comprehensive analysis of historical currency exchange r
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1. Clone this repository:
+### 1. Cloned this repository:
 ```bash
 git clone https://github.com/yourusername/currency-forecasting-project.git
 cd currency-forecasting-project
 ```
 
-### 2. Install dependencies:
+### 2. Installed dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ```txt
 pandas
@@ -83,13 +83,8 @@ fpdf
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-## 🤝 Acknowledgments
+## Acknowledgments
 
 - Created using real-world foreign exchange datasets
 - Powered by Python, ARIMA, and Prophet forecasting
