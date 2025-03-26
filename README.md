@@ -4,7 +4,7 @@ This project provides a comprehensive analysis of historical currency exchange r
 
 ---
 
-## 📊 Key Modules
+## Key Modules
 
 ### 1. Data Preprocessing
 - Cleaned and standardized over 400,000 exchange rate records
